@@ -1,0 +1,3 @@
+a=magic(5)
+
+images(a)
